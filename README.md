@@ -23,7 +23,7 @@ Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehi
 
 📧 Sähköposti: ron.gustafsson@gmail.com
 
-© 2024 [Ron Gustafsson]  
+© 2024 Ron Gustafsson    
 
  **And same for english**
 
