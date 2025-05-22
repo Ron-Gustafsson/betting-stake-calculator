@@ -22,7 +22,7 @@ Jos haluat käyttää ohjelmaa osana projektiasi tai jakaa sen muille, otathan y
 Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehittää tästä mahdollisimman hyödyllinen ja turvallinen työkalu vedonlyöjille.
 📧 Sähköposti: ron.gustafsson@gmail.com
 
-© 2024 [Ron Gustafsson]
+© 2024 [Ron Gustafsson]  
 
  --- And same for english ---  
 
