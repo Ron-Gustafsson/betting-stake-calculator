@@ -1,4 +1,4 @@
-🎯 Panoslaskuri BETA 0.1
+🎯 Panoslaskuri BETA 0.1  
 Panoslaskuri on vedonlyöjille suunnattu työkalu, joka auttaa laskemaan optimaalisen panoksen pelikassan, kohteen kertoimen, riskitason ja omien arvioiden perusteella. Ohjelma hyödyntää yksikköpohjaista lähestymistapaa ja riskiprofiileja, joiden avulla käyttäjä voi arvioida panoskokoa eri tilanteissa.
 
 ⚠️ Tämä on BETA-versio – ohjelma on tarkoitettu ensisijaisesti testaamiseen ja palautteen keräämiseen, ei tuotantokäyttöön.
