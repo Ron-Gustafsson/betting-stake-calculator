@@ -19,7 +19,7 @@ Kaikki oikeudet pidätetään. Ohjelman kopioiminen, jakelu, muokkaaminen tai ka
 Jos haluat käyttää ohjelmaa osana projektiasi tai jakaa sen muille, otathan yhteyttä ensin.
 
 📬 Palaute  
-Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehittää tästä mahdollisimman hyödyllinen ja turvallinen työkalu vedonlyöjille.
+Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehittää tästä mahdollisimman hyödyllinen ja turvallinen työkalu vedonlyöjille.  
 📧 Sähköposti: ron.gustafsson@gmail.com
 
 © 2024 [Ron Gustafsson]  
