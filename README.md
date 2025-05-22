@@ -25,7 +25,7 @@ Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehi
 
 © 2024 [Ron Gustafsson]  
 
- --- And same for english ---  
+ **And same for english**
 
  🎯 Betting Stake Calculator BETA 0.1  
 Panoslaskuri is a tool designed for sports bettors to help calculate the optimal stake based on bankroll, odds, risk level, and personal confidence. The program uses a unit-based approach and risk profiles to assist users in adjusting stake sizes for different betting situations.
