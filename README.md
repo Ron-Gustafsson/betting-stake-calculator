@@ -24,36 +24,33 @@ Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehi
 
 © 2024 [Ron Gustafsson]
 
- --- And same for english ---
+ --- And same for english ---  
 
- 🎯 Betting Stake Calculator BETA 0.1
+ 🎯 Betting Stake Calculator BETA 0.1  
 Panoslaskuri is a tool designed for sports bettors to help calculate the optimal stake based on bankroll, odds, risk level, and personal confidence. The program uses a unit-based approach and risk profiles to assist users in adjusting stake sizes for different betting situations.
 
 ⚠️ This is a BETA version – the software is intended primarily for testing and feedback purposes, not for production use.
 
-🔧 Features
-Three risk profiles: conservative, balanced, and aggressive
+🔧 Features  
+- Three risk profiles: conservative, balanced, and aggressive
+- Unit-based probability estimation
+- Scalable stake calculation based on bankroll size
+- User-friendly, command-line interface
 
-Unit-based probability estimation
-
-Scalable stake calculation based on bankroll size
-
-User-friendly, command-line interface
-
-🛑 Usage Restrictions
+🛑 Usage Restrictions  
 This software is not intended for unrestricted or commercial use.
 It is published for private use and testing only, not for production or redistribution.
 
-🔒 License
+🔒 License  
 This is not open-source software.
 All rights reserved. Copying, modifying, distributing, or using this program for commercial purposes without explicit permission is strictly prohibited.
 
 If you would like to use the software as part of a project or share it with others, please contact the author first.
 
-📬 Feedback
+📬 Feedback  
 Feedback and improvement suggestions are very welcome!
 The goal is to develop this into a useful and safe tool for bettors.
 
-📧 Email: ron.gustafsson@gmail.com
+📧 Email: ron.gustafsson@gmail.com  
 
 © 2024 Ron Gustafsson
