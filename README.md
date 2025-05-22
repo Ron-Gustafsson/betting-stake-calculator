@@ -3,22 +3,22 @@ Panoslaskuri on vedonlyöjille suunnattu työkalu, joka auttaa laskemaan optimaa
 
 ⚠️ Tämä on BETA-versio – ohjelma on tarkoitettu ensisijaisesti testaamiseen ja palautteen keräämiseen, ei tuotantokäyttöön.
 
-🔧 Ominaisuudet
+🔧 Ominaisuudet  
 - Kolme riskitasoa: konservatiivinen, tasapainoinen ja aggressiivinen
 - Yksikköarviointi vedon todennäköisyyden mukaan
 - Skaalautuva panoslaskenta pelikassan koon mukaan
 - Käyttäjäystävällinen, komentorivipohjainen käyttöliittymä
 
-🛑 Käyttörajoitukset
+🛑 Käyttörajoitukset  
 Tätä ohjelmaa ei saa käyttää vapaasti tai kaupallisiin tarkoituksiin. Ohjelma on julkaistu yksityiskäyttöön ja testaukseen, ei tuotantoon tai uudelleenlevitykseen.
 
-🔒 Lisenssi
+🔒 Lisenssi  
 Tämä ohjelma ei ole avoimen lähdekoodin ohjelmisto.
 Kaikki oikeudet pidätetään. Ohjelman kopioiminen, jakelu, muokkaaminen tai kaupallinen hyödyntäminen ilman erillistä lupaa on ehdottomasti kielletty.
 
 Jos haluat käyttää ohjelmaa osana projektiasi tai jakaa sen muille, otathan yhteyttä ensin.
 
-📬 Palaute
+📬 Palaute  
 Palautetta ja parannusehdotuksia otetaan mielellään vastaan! Tarkoitus on kehittää tästä mahdollisimman hyödyllinen ja turvallinen työkalu vedonlyöjille.
 📧 Sähköposti: ron.gustafsson@gmail.com
 
